@@ -105,24 +105,25 @@ body	{
 .memory-game-win {
 	display: none;
 	text-align: center;
+		max-width: 725px;
+	width: 100%;
 }
 
 .memory-game-win__title {
-	max-width: 725px;
-	width: 100%;
 	font-weight: 700;
 	font-size: 58px;
 	line-height: 1.4;
 	color: #000;
-		text-align: center;
 }
 
 .memory-game-win__title:not(:last-child) {
 	margin-bottom: 30px;
+		text-align: center;
 }
 
 .memory-game-win__image:not(:last-child) {
 	margin-bottom: 15px;
+		text-align: center;
 }
 
 
