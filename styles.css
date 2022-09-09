@@ -114,6 +114,7 @@ body	{
 	font-size: 58px;
 	line-height: 1.4;
 	color: #000;
+		text-align: center;
 }
 
 .memory-game-win__title:not(:last-child) {
@@ -130,6 +131,7 @@ body	{
 	font-size: 18px;
 	line-height: 1.4;
 	text-decoration-line: underline;
+		text-align: center;
 }
 
 @media (max-width: 800px){
